@@ -100,8 +100,8 @@ Proporcionar aos alunos uma vivência prática e incremental no desenvolvimento 
 - **Expo**
 - `expo-image-picker`
 - `react-native-vector-icons`
-- `AsyncStorage` (planejado)
-- `@react-navigation/native` (em breve)
+- `AsyncStorage`
+- `@react-navigation/native`
 - `Realm`, `SQLite` e integração com API (em breve)
 
 ---
