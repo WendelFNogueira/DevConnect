@@ -1,4 +1,4 @@
-# 📱 Projeto React Native - Estácio
+# 📱 Projeto DevConnect em React Native - Estácio
 
 Este é um projeto educacional desenvolvido como apoio às aulas práticas da disciplina **Programação para Dispositivos Móveis em Android** do curso de Análise e Desenvolvimento de Sistemas da **Estácio**, sob minha orientação.
 
