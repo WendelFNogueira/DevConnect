@@ -1,6 +1,6 @@
 # 📱 Projeto React Native - Estácio
 
-Este é um projeto educacional desenvolvido como apoio às aulas práticas da disciplina **Programação para Dispositivos Móveis em Android** do curso de Análise e Desenvolvimento de Sistemas da **Estácio**, sob orientação do professor **Wendel Nogueira**.
+Este é um projeto educacional desenvolvido como apoio às aulas práticas da disciplina **Programação para Dispositivos Móveis em Android** do curso de Análise e Desenvolvimento de Sistemas da **Estácio**, sob minha orientação.
 
 O projeto serve como um laboratório evolutivo, onde os alunos podem acompanhar a aplicação dos principais conceitos discutidos em sala, organizados conforme os temas propostos no plano de ensino da disciplina.
 
