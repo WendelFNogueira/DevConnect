@@ -132,18 +132,16 @@ npm run tunnel
 
 **Wendel Nogueira**  
 Orientador de TI na Estácio  
-Desenvolvedor Fullstack na IBM  
+Desenvolvedor Backend Sênior na GFT  
 Instrutor & Mentor de Carreira na área de programação
 
-📫 [LinkedIn](https://linkedin.com/in/wendelnogueira)
+📫 [LinkedIn](https://www.linkedin.com/in/wendelfnogueira/)
 
 ---
 
 ## 📜 Licença
 
 Este projeto é de uso educacional e livre para fins acadêmicos e de aprendizado.
-
-```
 
 ---
 
