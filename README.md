@@ -132,7 +132,7 @@ npm run tunnel
 
 **Wendel Nogueira**  
 Orientador de TI na Estácio  
-Desenvolvedor Backend Sênior na GFT  
+Desenvolvedor Backend Sênior
 Instrutor & Mentor de Carreira na área de programação
 
 📫 [LinkedIn](https://www.linkedin.com/in/wendelfnogueira/)
